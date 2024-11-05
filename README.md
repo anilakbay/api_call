@@ -24,6 +24,7 @@ api_call/
 │   └── index.js           # Uygulamanın başlangıç noktası
 └── package.json           # Proje bağımlılıkları ve betikleri
 
+
 ## **Teknik Bilgiler**
 - **Node.js**: Projeyi çalıştırmak için Node.js yüklü olmalıdır.
 - **npm**: Gerekli bağımlılıkları yüklemek için npm kullanılmalıdır.
